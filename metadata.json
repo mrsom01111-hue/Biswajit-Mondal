@@ -1,0 +1,7 @@
+{
+  "name": "Phone AI Agent",
+  "description": "An intelligent Android Phone AI Agent with English UI, free multilingual voice access (Hindi, Bengali, and English), customizable voice and logo, gallery photo wallpaper background, call screening, and automated app launching intents.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
